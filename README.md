@@ -1,3 +1,4 @@
+<h4 align="center" style={{color:'brown'}}>(Primary Account: https://github.com/Fanu-Cd)</h4>
 <h1 align="center">Hi 👋, I'm Fanuel Amare</h1>
 <h3 align="center">A Passionate Full Stack Software Developer with a strong focus on Frontend Development</h3>
 
