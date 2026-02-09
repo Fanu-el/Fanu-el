@@ -1,5 +1,5 @@
 <h4 align="center" style={{color:'brown'}}>(Primary Account: https://github.com/Fanu-Cd)</h4>
-<div style={{margin:'0 auto',width:'60%'}}>---------------------------------------</div>
+<div style={{display:'flex', justifyContent:'center', alignItems:'center"}}>---------------------------------------</div>
 <h1 align="center">Hi 👋, I'm Fanuel Amare</h1>
 <h3 align="center">A Passionate Full Stack Software Developer with a strong focus on Frontend Development</h3>
 
