@@ -1,4 +1,4 @@
-<h6 align="center">( Recently closed github account: https://github.com/Fanu-Cd )</h6> 
+<h6 align="center">( My recently closed github account: https://github.com/Fanu-Cd )</h6> 
 <h6 align="center">------------------------------------------------------------------------</h6>
 <h1 align="center">Hi 👋, I'm Fanuel Amare</h1>
 <h3 align="center">A Skilled Full Stack And AI Software Developer with a strong focus on Frontend and AI Development</h3>
