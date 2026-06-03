@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **fanuelamare6577@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FtMc3P6O0WLXjOTZ_6G7i_QigFxsKmtQ/view?usp=sharing](https://drive.google.com/file/d/1FtMc3P6O0WLXjOTZ_6G7i_QigFxsKmtQ/view?usp=sharing)
+- 📄 Know about my experiences [ https://drive.google.com/file/d/1j-pfcMApzs_RfEpaRy0Oo83KyrOpOPQc/view?usp=sharing ]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
