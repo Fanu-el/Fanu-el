@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **AI Powered Web and Mobile-app as well as Backend projects**
 
-- 👨‍💻 All of my projects are available at [https://fanuel-amare-personal-portfolio-v2.vercel.app/?flavor=code](https://fanuel-amare-personal-portfolio-v2.vercel.app/?flavor=code)
+- 👨‍💻 All of my projects are available at [https://fanuel-amare-personal-portfolio-v3.vercel.app](https://fanuel-amare-personal-portfolio-v3.vercel.app)
 
 - 💬 Ask me about **Next.js , Python , AI , FastApi , Node.js , React Native , Flutter , Microsoft SharePoint**
 
